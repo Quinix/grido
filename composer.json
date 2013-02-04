@@ -15,7 +15,7 @@
         "forum": "http://forum.nette.org/cs/13109-grido-datagrid-pro-nette/"
     },
 	"autoload": {
-		"psr-0": { "Grido": "libs/" }
+		"psr-0": { "Grido": "/" }
 	},
 	"require": {
 		"php": ">=5.3.1",
